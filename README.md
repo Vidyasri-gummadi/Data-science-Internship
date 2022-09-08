@@ -1,6 +1,6 @@
 # Wine Quality Analysis
 
-This project is a part of my internship at Corizo
+This is a group project by 4 members as a part of my internship at Corizo
 
 # Instructions
 
